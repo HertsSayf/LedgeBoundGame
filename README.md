@@ -7,6 +7,5 @@ Downloaded the following free Sprite Assests to use in unity:
 Refrence Videos to help with developing the game:
 
 https://www.youtube.com/watch?v=lIZnIFqai2I&list=PLXG1jSmcT-NXIHOPL8cZGXvDEGZ3gzurt&index=1
-
-Making a 2D Platformer In Unity 6 - Episode 1 (Full Course)
+- Making a 2D Platformer In Unity 6 - Episode 1 (Full Course)
 Channel: Unity Unlocked
