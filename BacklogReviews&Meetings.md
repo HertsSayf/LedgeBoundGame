@@ -71,11 +71,3 @@ The burndown chart shows steady progress across development. It helped identify 
 | Week 2 | 18 Feb 2026 – 24 Feb 2026 | 18 | 18 |
 | Week 3 | 25 Feb 2026 – 3 Mar 2026 | 15 | 16 |
 | Week 4 | 4 Mar 2026 – 10 Mar 2026 | 12 | 13 |
-
----
-
-## Sprint 2 Backlog Meeting
-
-## Review Meeting 25/04/2026
-All core mechanics are inmplemented allowing the prototype to complete the acceptance criteria at the end of sprint 2 and is ready for assignment 2 submission.
-Next task: record a 3 minute demo of the current game.
